@@ -1,0 +1,1 @@
+import{i as e}from"./axios-772a9739.js";function n(t){return e.get("goods",{params:t})}function g(t){return e.get("categories",{params:t})}function s(t){return e.get(`goods/${t}`)}function i(t,o){return e.put(`goods/${t}`,o)}export{n as a,s as b,i as e,g};
