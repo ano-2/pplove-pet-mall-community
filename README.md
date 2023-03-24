@@ -51,7 +51,7 @@ vue3 + vue-router + pinia + Vite + axios +  + ES6 + less 电商+社区 移动端
 ![确认订单页面](http://43.139.223.94:8889/tmp_uploads/statics/createOrder.png)
 
 ### 支付页面 PAY PAGE
-![支付页面](http://43.139.223.94:8889/tmp_uploads/statics/createOrder.png)
+![支付页面](http://43.139.223.94:8889/tmp_uploads/statics/pay.png)
 
 ### 确认订单页面 ORDER PAGE
 ![确认订单页面](http://43.139.223.94:8889/tmp_uploads/statics/orderList.png)
