@@ -4,7 +4,7 @@
 
 - 初版完成
 
-> 项目预览地址(demo)： [pplove](http://43.139.223.94:6001/#/home)
+> 项目预览地址(demo)： ~~[pplove](http://43.139.223.94:6001/#/home)~~ 项目暂时下线
 
 ## 前端架构
 vue3 + vue-router + pinia + Vite + axios +  + ES6 + less 电商+社区 移动端项目
