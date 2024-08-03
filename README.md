@@ -38,33 +38,28 @@ vue3 + vue-router + pinia + Vite + axios +  + ES6 + less 电商+社区 移动端
 ![首页1](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic1.png)
 
 ### 商品 PRODUCT PAGE
-![productList页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic1.png)
+![productList页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic3.png)
 
-![商品详情页面1](http://43.139.223.94:8889/tmp_uploads/statics/proDetail.png)
+![商品详情页面1](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic2.png)
 
-![产品类别](http://43.139.223.94:8889/tmp_uploads/statics/category.png)
+![产品类别](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic4.png)
 
 ### 购物车页面 SHOPPING CART PAGE
-![购物车页面](http://43.139.223.94:8889/tmp_uploads/statics/cart.png)
+![购物车页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic5.png)
 
 ### 确认订单页面 ORDER PAGE
-![确认订单页面](http://43.139.223.94:8889/tmp_uploads/statics/createOrder.png)
+![确认订单页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic1.png)
 
 ### 支付页面 PAY PAGE
-![支付页面](http://43.139.223.94:8889/tmp_uploads/statics/pay.png)
+![支付页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic6.png)
 
-### 确认订单页面 ORDER PAGE
-![确认订单页面](http://43.139.223.94:8889/tmp_uploads/statics/orderList.png)
 
 ### 社区 community PAGE
-![community](http://43.139.223.94:8889/tmp_uploads/statics/community.png)
+![community](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic7.png)
 
-### 文章 articleDetail PACE
-![articleDetail](http://43.139.223.94:8889/tmp_uploads/statics/articleDetail.png)
 
 
 ### 用户页面 USER PAGE
-![用户页面](http://43.139.223.94:8889/tmp_uploads/statics/user.png)
+![用户页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic8.png)
 
-### 登录页面 LOGIN PAGE
-![Login页面](http://43.139.223.94:8889/tmp_uploads/statics/login.png)
+
