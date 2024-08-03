@@ -35,10 +35,10 @@ vue3 + vue-router + pinia + Vite + axios +  + ES6 + less 电商+社区 移动端
 ## PAGE
 
 ### 首页 HOME PAGE
-![首页1]([https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic1.png])
+![首页1](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic1.png)
 
 ### 商品 PRODUCT PAGE
-![productList页面](http://43.139.223.94:8889/tmp_uploads/statics/productList.png)
+![productList页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic1.png)
 
 ![商品详情页面1](http://43.139.223.94:8889/tmp_uploads/statics/proDetail.png)
 
