@@ -35,7 +35,7 @@ vue3 + vue-router + pinia + Vite + axios +  + ES6 + less 电商+社区 移动端
 ## PAGE
 
 ### 首页 HOME PAGE
-![首页1](http://43.139.223.94:8889/tmp_uploads/statics/index.png)
+![首页1]([http://43.139.223.94:8889/tmp_uploads/statics/index.png])
 
 ### 商品 PRODUCT PAGE
 ![productList页面](http://43.139.223.94:8889/tmp_uploads/statics/productList.png)
