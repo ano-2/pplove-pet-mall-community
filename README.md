@@ -47,8 +47,6 @@ vue3 + vue-router + pinia + Vite + axios +  + ES6 + less 电商+社区 移动端
 ### 购物车页面 SHOPPING CART PAGE
 ![购物车页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic5.png)
 
-### 确认订单页面 ORDER PAGE
-![确认订单页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic1.png)
 
 ### 支付页面 PAY PAGE
 ![支付页面](https://raw.githubusercontent.com/ano-2/pplove-pet-mall-community/main/pic6.png)
